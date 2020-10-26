@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-width: 13px;
+        stroke-dasharray: 52,26,13,26,78,26;
+        fill: none;
+      }
+    </style>
+  </defs>
+  <circle cx="250" cy="250" r="200" class="cls-1"/>
+</svg>
